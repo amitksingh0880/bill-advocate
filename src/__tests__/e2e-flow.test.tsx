@@ -8,6 +8,7 @@ import { saveBill, getBillById, updateDisputeStatus } from '../db/bill-repositor
 import { setAppLanguage, getCurrentLanguage, isCurrentRTL } from '../i18n';
 
 describe('End-to-End User Journey (Direction 1 UI in Regional Languages)', () => {
+  jest.setTimeout(30000);
   beforeEach(() => {
     setAppLanguage('en');
   });

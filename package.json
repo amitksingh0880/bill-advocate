@@ -26,18 +26,18 @@
     "expo-local-authentication": "^58.0.3",
     "i18next": "^23.16.8",
     "lucide-react-native": "^0.469.0",
-    "react-dom": "^19.2.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
     "react-i18next": "^15.1.4",
+    "react-native": "0.88.1",
     "react-native-svg": "^15.16.1",
     "react-native-web": "^0.21.4",
     "react-native-worklets": "^0.13.1",
     "tailwind-merge": "^2.6.0",
-    "tailwindcss": "^3.4.17",
-    "react": "19.2.6",
-    "react-native": "^0.85.3"
+    "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
-    "@react-native/jest-preset": "^0.85.3",
+    "@react-native/jest-preset": "^0.88.1",
     "@testing-library/jest-native": "^5.4.3",
     "@testing-library/react-native": "^13.2.0",
     "@types/jest": "^29.5.14",
@@ -51,7 +51,7 @@
     "react-native-gesture-handler": "^3.0.0",
     "react-native-reanimated": "^4.4.0",
     "react-native-safe-area-context": "^5.8.0",
-    "react-test-renderer": "19.2.6",
+    "react-test-renderer": "19.3.0",
     "typescript": "^5.7.3"
   },
   "overrides": {
