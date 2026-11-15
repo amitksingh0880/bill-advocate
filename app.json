@@ -21,7 +21,11 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.billadvocate.patient"
+      "package": "com.billadvocate.patient",
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ]
     },
     "plugins": [
       [
@@ -30,6 +34,11 @@
           "cameraPermission": "Allow BillAdvocate to access your camera to photograph medical bills."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "bc8a211e-947b-41b7-8d92-fec8a142ba8b"
+      }
+    }
   }
 }
