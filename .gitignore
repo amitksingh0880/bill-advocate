@@ -9,6 +9,14 @@ yarn-error.log*
 dist/
 web-build/
 
+# Android build artifacts
+.gradle/
+android/.gradle/
+android/app/build/
+android/build/
+*.keystore
+!debug.keystore
+
 # Testing
 coverage/
 
