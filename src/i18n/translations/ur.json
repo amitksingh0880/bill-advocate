@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "بل ایڈووکیٹ",
+    "billed": "ہسپتال کا بل",
+    "fairPrice": "مناسب نقد قیمت",
+    "cheaperNearby": "یہ ٹیسٹ کہاں سستا دستیاب ہے",
+    "disputeOvercharges": "اضافی چارجز پر اعتراض کریں",
+    "exportPdf": "قانونی تنازعہ خط ڈاؤن لوڈ کریں",
+    "guestMode": "مہمان موڈ (صرف آپ کے فون پر)",
+    "scanBill": "طبی بل اسکین کریں",
+    "analyzing": "آپ کے بل کا تجزیہ کیا جا رہا ہے...",
+    "page": "صفحہ",
+    "pages": "صفحات",
+    "back": "واپس",
+    "done": "مکمل",
+    "cancel": "منسوخ کریں",
+    "milesAway": "{{distance}} میل دور",
+    "cashSelfPay": "نقد ادائیگی کی شرح",
+    "directOnline": "براہ راست آن لائن آرڈر",
+    "potentialSavings": "ممکنہ بچت"
+  },
+  "meter": {
+    "fair": "مناسب قیمت",
+    "mild": "معمولی اضافہ",
+    "moderate": "درمیانہ اضافی چارج",
+    "severe": "شدید اضافی چارج",
+    "extreme": "ناجائز حد سے زیادہ چارج"
+  },
+  "dispute": {
+    "potentialSavings": "ممکنہ بچت: {{amount}}",
+    "disputeLetterTitle": "میڈیکل بل آڈٹ اور قانونی نوٹس",
+    "itemizedRequest": "تفصیلی بل اور قیمت کی شفافیت کا مطالبہ",
+    "charityCare": "سیکشن 501(r) کے تحت مالی امداد کی درخواست",
+    "debtValidation": "قرض کی تصدیق کا قانونی نوٹس (30 دن کی مہلت)",
+    "generatedSuccess": "قانونی دستاویز کامیابی سے تیار ہوگئی ہے!"
+  }
+}

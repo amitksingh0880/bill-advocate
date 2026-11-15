@@ -1,0 +1,139 @@
+[
+  {
+    "code": "71260",
+    "codeType": "CPT",
+    "category": "Imaging",
+    "names": {
+      "en": "Chest CT Scan with Contrast",
+      "hi": "सीने का सीटी स्कैन (कंट्रास्ट सहित)",
+      "ta": "மார்பு CT ஸ்கேன் (கான்ட்ராஸ்ட் உடன்)",
+      "ur": "سینے کا سی ٹی اسکین (کنٹراسٹ کے ساتھ)"
+    },
+    "cmsMedicareBase": 142.50,
+    "fairCashMedian": 190.00,
+    "alternatives": [
+      {
+        "name": "Metro Diagnostic & Imaging Center",
+        "type": "standalone_clinic",
+        "distanceMiles": 2.4,
+        "price": 190,
+        "priceType": "Cash Self-Pay",
+        "badge": "Walk-in Accepted"
+      },
+      {
+        "name": "Affordable Open MRI & CT",
+        "type": "standalone_clinic",
+        "distanceMiles": 5.1,
+        "price": 225,
+        "priceType": "Cash Self-Pay",
+        "badge": "Same Day"
+      }
+    ]
+  },
+  {
+    "code": "80053",
+    "codeType": "CPT",
+    "category": "Laboratory",
+    "names": {
+      "en": "Comprehensive Metabolic Panel (CMP)",
+      "hi": "व्यापक चयापचय पैनल (सीएमपी रक्त जांच)",
+      "ta": "முழுமையான வளர்சிதை மாற்ற இரத்த பரிசோதனை (CMP)",
+      "ur": "جامع میٹابولک پینل (سی ایم پی خون کا ٹیسٹ)"
+    },
+    "cmsMedicareBase": 14.80,
+    "fairCashMedian": 28.00,
+    "alternatives": [
+      {
+        "name": "Certified Regional Lab Network",
+        "type": "regional_lab",
+        "distanceMiles": 1.2,
+        "price": 28,
+        "priceType": "Cash Self-Pay",
+        "badge": "Accredited Lab"
+      },
+      {
+        "name": "Direct Health Diagnostic Portal",
+        "type": "online_pharmacy",
+        "price": 24,
+        "priceType": "Direct Online",
+        "badge": "Home/Clinic Draw"
+      }
+    ]
+  },
+  {
+    "code": "J0696",
+    "codeType": "HCPCS",
+    "category": "Pharmacy",
+    "names": {
+      "en": "Ceftriaxone 1g Injection",
+      "hi": "सेफ्ट्रियाक्सोन 1 ग्राम इंजेक्शन (एंटीबायोटिक)",
+      "ta": "செஃப்ட்ரியாக்ஸோன் 1 கிராம் ஊசி",
+      "ur": "سیفٹریاکسون 1 گرام انجکشن (اینٹی بائیوٹک)"
+    },
+    "cmsMedicareBase": 4.20,
+    "fairCashMedian": 18.00,
+    "alternatives": [
+      {
+        "name": "Transparent Generic Rx Mail Service",
+        "type": "online_pharmacy",
+        "price": 9.50,
+        "priceType": "Direct Online",
+        "badge": "Mail Order"
+      },
+      {
+        "name": "Community Care Pharmacy",
+        "type": "standalone_clinic",
+        "distanceMiles": 1.8,
+        "price": 18,
+        "priceType": "Cash Self-Pay",
+        "badge": "Local Pickup"
+      }
+    ]
+  },
+  {
+    "code": "70450",
+    "codeType": "CPT",
+    "category": "Imaging",
+    "names": {
+      "en": "Head/Brain CT Scan without Contrast",
+      "hi": "सिर/मस्तिष्क सीटी स्कैन (कंट्रास्ट रहित)",
+      "ta": "தலை / மூளை CT ஸ்கேன்",
+      "ur": "سر / دماغ کا سی ٹی اسکین"
+    },
+    "cmsMedicareBase": 135.00,
+    "fairCashMedian": 175.00,
+    "alternatives": [
+      {
+        "name": "Express Imaging Center",
+        "type": "standalone_clinic",
+        "distanceMiles": 3.8,
+        "price": 175,
+        "priceType": "Cash Self-Pay",
+        "badge": "Save $1,200+"
+      }
+    ]
+  },
+  {
+    "code": "99284",
+    "codeType": "CPT",
+    "category": "Emergency",
+    "names": {
+      "en": "Emergency Department Visit (Level 4 Moderate-High)",
+      "hi": "आपातकालीन विभाग परामर्श (स्तर 4)",
+      "ta": "அவசர சிகிச்சை பிரிவு வருகை (நிலை 4)",
+      "ur": "ایمرجنسی ڈیپارٹمنٹ چیک اپ (لیول 4)"
+    },
+    "cmsMedicareBase": 185.00,
+    "fairCashMedian": 340.00,
+    "alternatives": [
+      {
+        "name": "City Urgent Care & Immediate Clinic",
+        "type": "standalone_clinic",
+        "distanceMiles": 1.5,
+        "price": 195,
+        "priceType": "Cash Self-Pay",
+        "badge": "Urgent Care Alternative"
+      }
+    ]
+  }
+]

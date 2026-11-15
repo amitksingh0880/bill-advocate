@@ -1,0 +1,37 @@
+{
+  "common": {
+    "appName": "BillAdvocate",
+    "billed": "Billed Amount",
+    "fairPrice": "Fair Cash Price",
+    "cheaperNearby": "Where to get this cheaper",
+    "disputeOvercharges": "Dispute Overcharges",
+    "exportPdf": "Export Legal Dispute Letter",
+    "guestMode": "Guest Mode (Local Only)",
+    "scanBill": "Scan Medical Bill",
+    "analyzing": "Analyzing your bill against regional benchmarks...",
+    "page": "Page",
+    "pages": "Pages",
+    "back": "Back",
+    "done": "Done",
+    "cancel": "Cancel",
+    "milesAway": "{{distance}} miles away",
+    "cashSelfPay": "Cash Self-Pay",
+    "directOnline": "Direct Online Order",
+    "potentialSavings": "Potential Savings"
+  },
+  "meter": {
+    "fair": "Fair Price",
+    "mild": "Mild Markup",
+    "moderate": "Moderate Overcharge",
+    "severe": "Severe Overcharge",
+    "extreme": "Extreme Markup"
+  },
+  "dispute": {
+    "potentialSavings": "Potential Savings: {{amount}}",
+    "disputeLetterTitle": "Medical Billing Audit & Statutory Dispute Notice",
+    "itemizedRequest": "Demand for Itemized Billing & CMS Price Disclosure",
+    "charityCare": "Application for Hospital 501(r) Financial Assistance",
+    "debtValidation": "FDCPA Section 809(b) 30-Day Debt Validation Notice",
+    "generatedSuccess": "Dispute packet successfully generated!"
+  }
+}
