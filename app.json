@@ -2,6 +2,7 @@
   "expo": {
     "name": "BillAdvocate",
     "slug": "bill-advocate",
+    "scheme": "billadvocate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
